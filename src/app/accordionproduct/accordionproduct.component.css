@@ -1,0 +1,36 @@
+.container{
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 40px;
+    box-sizing:border-box;
+}
+.row{
+    overflow: hidden;
+}
+.btn{
+    border-bottom: 3px solid black;
+    box-shadow: inset 0px 0px 7px -2px #000;
+}
+.col-7{
+    border: 1px solid black;
+    float: right;
+}
+.col-4{
+    border:1px solid black;
+    margin: 0 37px 0 15px;
+}
+.myText{
+    border:2px solid black;
+}
+.custom-accordion .p-accordion-header{
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    padding:5px;
+}
+.custom-accordion .p-accordion-content{
+    border: 2px solid black;
+    overflow: hidden;
+    color: black;
+    padding: 7px;
+}
